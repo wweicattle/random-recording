@@ -1,0 +1,8 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wweicattle/random-recording.git",
+  "author": "wuwei <996196542@qq.com>",
+  "license": "MIT"
+}
